@@ -5,6 +5,6 @@ import { HelloWorld } from "./App";
 import './index.css'
 
 ReactDOM.render(
-  <HelloWorld firstName="Chris" lang="TypeScript" />,
+  <HelloWorld userName="Beveloper" lang="TypeScript" />,
   document.getElementById("content")
 );

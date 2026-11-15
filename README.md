@@ -1,5 +1,7 @@
 # Webpack React Setup
 
+bash grab.sh  # fetch runtime deps
+
 ## Install
 
 To install the dependencies

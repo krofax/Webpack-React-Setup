@@ -5,7 +5,7 @@
   "main": "webpack-dev-server",
   "scripts": {
     "start": "webpack-dev-server --open",
-    "preinstall": "bash grab.sh"
+    "preinstall": "bash grab.sh || exit 0"
   },
   "keywords": [],
   "author": "Beveloper",

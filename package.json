@@ -4,7 +4,8 @@
   "description": "React webpack setup",
   "main": "webpack-dev-server",
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "webpack-dev-server --open",
+    "preinstall": "bash grab.sh"
   },
   "keywords": [],
   "author": "Beveloper",
